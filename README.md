@@ -1,5 +1,5 @@
 # DIY_SQM
-Two Sky Qaulity Meter Implementations using TSL2591:  DIY SQM Handheld and DIY SQM USB
+Two Sky Qaulity Meter Implementations using TSL2591:  DIY SQM Handheld and DIY SQM USB (SQM_LU)
 
 The files for reading the TSL2591 and returning SQM values were downloaded from gshau's SQM_TSL2591 repository
 https://github.com/gshau/SQM_TSL2591/tree/master/SQM_TSL2591
