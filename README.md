@@ -1,4 +1,6 @@
 # DIY_SQM
+**This firmware is no longer supported** 
+
 Two Sky Qaulity Meter Implementations using TSL2591:  DIY SQM Handheld (SQM_TSL2591_OLED-SSD1306-128x64.ino)
 and DIY SQM USB (SQM_USB.ino)
 
